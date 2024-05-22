@@ -217,4 +217,4 @@ def predict(modelo,test_ts,ts_log):
     plt.ylabel('Log of no. of passengers')
     plt.title('ARIMA(3,2,2)(0,1,0)[12] qualitative performance')
     plt.legend(loc = 'best')
-    # plt.show()
+    # plt.show() 

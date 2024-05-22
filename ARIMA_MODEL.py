@@ -77,3 +77,4 @@ modelo=model_arima(train_ts)
 # results = model.fit()
 #********************************Prediccion del modelo********************************
 predict(modelo,test_ts,ts_log)
+
